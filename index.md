@@ -5,3 +5,6 @@
 ``` javascript
 var myVar = hello,world!";
 ```
+- [ ] turn on Github pages
+- [ ] outline my portfolio
+- [ ] introduce myself to the world
